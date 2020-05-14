@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My CustomView</string>
+    <string name="txt_double_tap_to_edit">Double to edit</string>
+</resources>
